@@ -6,6 +6,7 @@ Input: Single IP address or **any text file** containing IP addresses.
 Output: GeoIP data (Cymru) and an URL to the associated Regional Internet Registry.
 Output can be exported to CSV.
 
+<br />
 
 
 ![alt text](https://raw.githubusercontent.com/s4vgR/AutoIs/master/media/Screenshot_1.png)
