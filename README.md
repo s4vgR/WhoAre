@@ -3,7 +3,7 @@ IP WHOIS made easy (Windows GUI app)
 
 Input: Single IP address or **any text file** containing IP addresses.
 
-Output: GeoIP data (Cymru) and an URL to the associated Regional Internet Registry.
+Output: GeoIP data (Thanks to Team Cymru) and an URL to the associated Regional Internet Registry.
 Output can be exported to CSV.
 
 <br />
